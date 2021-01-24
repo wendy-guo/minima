@@ -1,2 +1,15 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.post-link {
+  color: $post-title-color;
+  transition: 0.4s ease-in-out;
+}
+
+.post-link:visited {
+  color: $post-title-visited-color;
+}
+
+.post-link:hover {
+  color: $post-title-hover-color;
+}
