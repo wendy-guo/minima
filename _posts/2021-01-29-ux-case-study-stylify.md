@@ -28,14 +28,14 @@ As an avid online shopper who is obsessed with clothes, I found my closet growin
 
 How much of your closet do you believe you haven't worn in the last year? When asked this question by German moving company Movinga, on average surveyors in the US and Canada answered 43% and 39% respectively. In reality, the researched values proved to be 82% and 79%. That's a delusion value of 39% and 40% for the two countries. It is evident that people are not knowledgable about their own closets, which often leads to buying more clothes and promoting fast fashion.
 
-![image tooltip here](/assets/images/009.jpg)
+![image tooltip here](https://wendy-guo.github.io/octoberland/assets/images/009.jpg)
 data from [Movinga](https://fashionunited.uk/images/201808/r/810/6APeopledo2.jpg)
 
 <h3>Competitor Analysis</h3>
 
 Looking for exisiting products, I went on the hunt for apps that will manage my clothing collection. There was only a few, most of which were not very developed. I picked one that was well-rounded to analyze.
 
-![image tooltip here](/assets/images/007.png)
+![image tooltip here](https://wendy-guo.github.io/octoberland/assets/images/007.png)
 
 <h6 style="text-decoration-color:#FECDA2;">PROBLEM</h6>
 
@@ -60,11 +60,11 @@ To solve the problem, we can formulate two main goals to achieve:
 
 <h3>Information Architeture</h3>
 
-![image tooltip here](/assets/images/002.png)
+![image tooltip here](https://wendy-guo.github.io/octoberland/assets/images/002.png)
 
 <h3>User Flow</h3>
 
-![image tooltip here](/assets/images/003.png)
+![image tooltip here](https://wendy-guo.github.io/octoberland/assets/images/003.png)
 
 <h3>Wireframes</h3>
 
@@ -74,19 +74,19 @@ To solve the problem, we can formulate two main goals to achieve:
 
 <h3>Custom Tags for Items</h3>
 
-![image tooltip here](/assets/images/004.png)
+![image tooltip here](https://wendy-guo.github.io/octoberland/assets/images/004.png)
 
 By adding custom tags to clothing pieces, it is easier to put together outfits as we can filter by these tags later. Users can define their own tags, which can range from season (summer, winter, etc.) to style (cute, preppy, etc.). The app also automatically assigns colours to each item, which allows users to filter by colour as well.
 
 <h3>Creating Style Boards</h3>
 
-![image tooltip here](/assets/images/005.png)
+![image tooltip here](https://wendy-guo.github.io/octoberland/assets/images/005.png)
 
 The creation of style boards allows users to refer back to them when getting dressed for any occasion. It saves time by providing pre-defined outfits to choose from, and can also function as a moodboard.
 
 <h3>Final UI</h3>
 
-![image tooltip here](/assets/images/006.png)
+![image tooltip here](https://wendy-guo.github.io/octoberland/assets/images/006.png)
 
 <h6 style="text-decoration-color:#FECDA2;">REFLECTION</h6>
 This was my first UX case study, and it taught me a lot about design processes. It took longer than initally planned, as I was frequently revising my designs and going through different iterations. I also became good friends with Figma :)
