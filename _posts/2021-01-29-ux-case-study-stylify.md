@@ -4,7 +4,7 @@ title: stylify | UX case study
 category: ui/ux case-study mobile
 ---
 
-![image tooltip here](/assets/images/008.png)
+![image tooltip here](https://wendy-guo.github.io/octoberland/assets/images/008.png)
 
 <div>
 <div>
