@@ -4,15 +4,15 @@ $brand-color: #595978 !default;
 $brand-color-light: lighten($brand-color, 10%) !default;
 $brand-color-dark: darken($brand-color, 10%) !default;
 
-$site-title-color: #645680 !default;
+$site-title-color: #f1acb0 !default;
 
 $text-color: #382a2a !default;
-$background-color: #fff6f6 !default;
+$background-color: #fffafa !default;
 $code-background-color: #ffecef !default;
 
-$link-base-color: #7d6277 !default;
+$link-base-color: #996a76 !default;
 $link-visited-color: darken($link-base-color, 15%) !default;
-$link-hover-color: lighten($text-color, 20%) !default;
+$link-hover-color: lighten($link-base-color, 7%) !default;
 
 $post-title-color: #ff9b9b !default;
 $post-title-hover-color: #8189b9 !default;
