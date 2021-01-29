@@ -68,7 +68,7 @@ To solve the problem, we can formulate two main goals to achieve:
 
 <h3>Wireframes</h3>
 
-![image tooltip here](/assets/images/001.png)
+![image tooltip here](https://wendy-guo.github.io/octoberland/assets/images/001.png)
 
 <h6 style="text-decoration-color:#FECDA2;">SOLUTION</h6>
 
