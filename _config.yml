@@ -3,9 +3,7 @@ author:
   name: wendy guo
   email: wendy.guo@live.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  welcome to octoberland, where I document pieces of my design and coding adventures ^^
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -17,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github:  wendy-guo
+    github: wendy-guo
     # devto: jekyll
     dribbble: wny_
     # facebook: jekyll
@@ -56,5 +54,5 @@ minima:
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
